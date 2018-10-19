@@ -2,7 +2,7 @@
 - apt-get update
 - apt-get install build-essential
 - apt-get install wget vim
-- wget https://github.com/inspircd/inspircd/archive/v2.0.26.tar.gz
+- wget [Insircd v2.0.26](https://github.com/inspircd/inspircd/archive/v2.0.26.tar.gz)
 - tar xvf ./v2.0.26.tar.gz
 - cd to the extracted folder.
 - (maybe in an external script) adduser --disabled-password -uid 1010 claw
