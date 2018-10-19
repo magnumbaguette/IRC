@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#adduser --disabled-password -uid 1010 claw
+
+/irc/inspircd-2.0.26/run/inspircd start
+
+/irc/inspircd-2.0.26/run/inspircd status
